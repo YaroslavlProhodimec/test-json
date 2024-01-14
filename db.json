@@ -2,78 +2,78 @@
   "posts": [
     {
       "id": 1,
-      "title": "User 1",
-      "description": "Description for User 1"
+      "title": "Услуга",
+      "description": "Диагностика зубов и челюстей"
     },
     {
       "id": 2,
-      "title": "User 2",
-      "description": "Description for User 2"
+      "title": "Услуга",
+      "description": "Диагностика челюстно-лицевой области (ЧЛО)"
     },
     {
       "id": 3,
-      "title": "User 3",
-      "description": "Description for User 3"
+      "title": "Услуга",
+      "description": "Диагностика височно-нижнечелюстных суставов (ВНЧС)"
     },
     {
       "id": 4,
-      "title": "User 4",
-      "description": "Description for User 4"
+      "title": "Услуга",
+      "description": "Конусно-лучевая компьютерная томография пазух носа,"
     },
     {
       "id": 5,
-      "title": "User 5",
-      "description": "Description for User 5"
+      "title": "Услуга",
+      "description": "Конусно-лучевая компьютерная томография височной кости"
     },
     {
       "id": 6,
-      "title": "User 6",
-      "description": "Description for User 6"
+      "title": "Услуга",
+      "description": "Изготовление хирургических навигационных шаблонов для проведения операции имплантации"
     },
     {
       "id": 7,
-      "title": "User 7",
-      "description": "Description for User 7"
+      "title": "Услуга",
+      "description": "Изготовление элайнеров для проведения ортодонтической коррекции прикуса"
     },
     {
       "id": 8,
-      "title": "User 8",
-      "description": "Description for User 8"
+      "title": "Услуга",
+      "description": "Центры сканирования полного цикла: рентген, ортодонтический фотопротокол, внутриротовое сканирование, виртуальное планирование"
     },
     {
       "id": 9,
-      "title": "User 9",
-      "description": "Description for User 9"
+      "title": "Услуга",
+      "description": "Интраоральное сканирование для тех, кто в 3D"
     },
     {
       "id": 10,
-      "title": "User 10",
-      "description": "Description for User 10"
+      "title": "Услуга",
+      "description": "Ортодонтическое лечение на элайнерах"
     },
     {
       "id": 11,
-      "title": "User 11",
-      "description": "Description for User 11"
+      "title": "Услуга",
+      "description": "CAD/CAM-моделирование зубного ряда"
     },
     {
       "id": 12,
-      "title": "User 12",
-      "description": "Description for User 12"
+      "title": "Услуга",
+      "description": "Хирургические направляющие шаблоны — шаг к безупречным результатам имплантации"
     },
     {
       "id": 13,
-      "title": "User 13",
-      "description": "Description for User 13"
+      "title": "Услуга",
+      "description": "На базе Института дентальной рентгенологии Пикассо вы можете посетить обучающие курсы по направлениям хирургия и ортодонтия, в том числе семинары по хирургическим шаблонам и ортодонтическим элайнерам."
     },
     {
       "id": 14,
-      "title": "User 14",
-      "description": "Description for User 14"
+      "title": "Услуга",
+      "description": "Планирование имплантации с применением хирургических шаблонов"
     },
     {
       "id": 15,
-      "title": "User 15",
-      "description": "Description for User 15"
+      "title": "Услуга",
+      "description": "Элайнеры «Пикассо Lab» — Доступная эстетика"
     }
   ]
 }
